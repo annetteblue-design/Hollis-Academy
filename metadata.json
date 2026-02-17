@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Hollis PI Academy",
+  "description": "An immersive AI ethics training platform for young investigators, teaching bias detection, fact verification, and data privacy through interactive Gemini-powered missions.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
